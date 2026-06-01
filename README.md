@@ -1,6 +1,6 @@
 # Batalha Pokemon
 
-<img src="./assets/gameScreenshot.png" width="600">
+<img src="./imgs/gameScreenshot.png" width="600">
 
 ## Sobre
 Mini jogo insipirado em Pokemon, onde o usuário escolhe um dos três pokemon disponíveis e enfrenta um adversário em uma batalha simplificada por turnos.
